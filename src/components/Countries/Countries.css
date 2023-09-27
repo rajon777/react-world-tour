@@ -1,0 +1,16 @@
+.country-container{
+    display: grid;
+    grid-template-columns: repeat(3,1fr);
+    gap: 10px;
+}
+.btn{
+    color: white;
+    background: green;
+}
+.visited{
+    background: bisque;
+
+}
+.flag-container img{
+    width:100px;
+}
